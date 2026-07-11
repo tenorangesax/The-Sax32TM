@@ -14,9 +14,13 @@ An ESP32-S3-WROOM-1 dev board designed by me to learn how the ESP32 works, with 
 
 
 **THE SCHEMATIC:**
+
 <img width="1359" height="925" alt="image" src="https://github.com/user-attachments/assets/e37aa620-f566-408c-b0fa-07ebe4b64414" />
 
+
 **PCB EDITOR:**
+
+
 <img width="357" height="723" alt="Screenshot 2026-06-14 at 10 48 29 AM" src="https://github.com/user-attachments/assets/a28b498a-0e37-44fb-acac-e5d89e40d6bd" />
 
 [JOURNAL (32).md](https://github.com/user-attachments/files/29913575/JOURNAL.32.md)
