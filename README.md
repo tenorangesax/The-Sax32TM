@@ -1,6 +1,9 @@
 # The-Sax32TM
 This is a simple devboard utilizing the ESP32-S3-WROOM-1 chip. Designed by me to really understand how the ESP32 works and all those little components on the front do, while also giving me a little more experience with creating devboards now.  (Being displayed at Opensauce!)
 
+**[THE WORKING VIDEO DEMO!!](https://youtu.be/G2ZkvX7cIcQ)**
+
+
 **FINAL SHOTS:**
 <img width="2268" height="4032" alt="IMG_7620" src="https://github.com/user-attachments/assets/020830fd-4b2a-4f09-8972-68cd36ada17e" />
 <img width="4032" height="2268" alt="IMG_7621" src="https://github.com/user-attachments/assets/b9000e8b-87db-4aab-aace-88950728bd40" />
