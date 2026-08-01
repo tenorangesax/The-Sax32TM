@@ -29,16 +29,17 @@ This is a simple devboard utilizing the ESP32-S3-WROOM-1 chip. Designed by me to
 
 <img width="357" height="723" alt="Screenshot 2026-06-14 at 10 48 29 AM" src="https://github.com/user-attachments/assets/a28b498a-0e37-44fb-acac-e5d89e40d6bd" />
 
-Id	Designator	Footprint	Quantity	Comment	Supplier and ref
-1	BOOT, RST	SW_Push_SPST_NO_Alps_SKRK	2	SW_SPST	
-2	C1, C4	C_0603_1608Metric	2	100nf	
-3	C2, C5	C_0603_1608Metric	2	10uf	
-4	C3	C_0603_1608Metric	1	22uf	
-5	D1	LED_0603_1608Metric	1	RED	
-6	D2	LED_0603_1608Metric	1	GREEN	
-7	D3	LED_0603_1608Metric	1	BLUE	
-8	J1, J2	PinHeader_1x20_P2.54mm_Vertical	2	Conn_01x20_Pin	
-9	J3	USB_C_Receptacle_HRO_TYPE-C-31-M-12	1	USB_C_Receptacle_USB2.0_16P	
-10	R1, R2, R3, R4, R5, R6	R_0603_1608Metric	6	5.1k	
-11	U1	SOT-223-3_TabPin2	1	LD1117S33TR_SOT223	
-12	U3	ESP32-S3-WROOM-1	1	ESP32-S3-WROOM-1	
+| Id | Designator | Footprint | Quantity | Comment | Supplier and ref |
+|---:|---|---|---:|---|---|
+| 1 | BOOT, RST | SW_Push_SPST_NO_Alps_SKRK | 2 | SW_SPST |  |
+| 2 | C1, C4 | C_0603_1608Metric | 2 | 100nf |  |
+| 3 | C2, C5 | C_0603_1608Metric | 2 | 10uf |  |
+| 4 | C3 | C_0603_1608Metric | 1 | 22uf |  |
+| 5 | D1 | LED_0603_1608Metric | 1 | RED |  |
+| 6 | D2 | LED_0603_1608Metric | 1 | GREEN |  |
+| 7 | D3 | LED_0603_1608Metric | 1 | BLUE |  |
+| 8 | J1, J2 | PinHeader_1x20_P2.54mm_Vertical | 2 | Conn_01x20_Pin |  |
+| 9 | J3 | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | 1 | USB_C_Receptacle_USB2.0_16P |  |
+| 10 | R1, R2, R3, R4, R5, R6 | R_0603_1608Metric | 6 | 5.1k |  |
+| 11 | U1 | SOT-223-3_TabPin2 | 1 | LD1117S33TR_SOT223 |  |
+| 12 | U3 | ESP32-S3-WROOM-1 | 1 | ESP32-S3-WROOM-1 |  |
