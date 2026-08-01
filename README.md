@@ -29,6 +29,8 @@ This is a simple devboard utilizing the ESP32-S3-WROOM-1 chip. Designed by me to
 
 <img width="357" height="723" alt="Screenshot 2026-06-14 at 10 48 29 AM" src="https://github.com/user-attachments/assets/a28b498a-0e37-44fb-acac-e5d89e40d6bd" />
 
+**BOM:**
+
 | Id | Designator | Footprint | Quantity | Comment | Supplier and ref |
 |---:|---|---|---:|---|---|
 | 1 | BOOT, RST | SW_Push_SPST_NO_Alps_SKRK | 2 | SW_SPST |  |
